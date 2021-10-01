@@ -1,0 +1,5 @@
+.idea/
+.ipynb_checkpoints/
+Untitled.ipynb
+__pycache__/
+stockfish_14_win_x64_avx2/
